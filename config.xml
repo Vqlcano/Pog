@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "pogDNZ"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Pog</name>
+
+  <description>
+      Dont Worry About It.
+  </description>
+
+  <author href="none" email="none">
+      Vqlcano
+  </author>
+
+<icon src="icon.png" />
+
+</widget>
